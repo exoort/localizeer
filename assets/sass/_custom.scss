@@ -1,0 +1,89 @@
+.main-panel > .content {
+  padding: 80px 30px 30px 30px;
+}
+
+.el-dialog {
+  border-radius: .75rem !important;
+  background-color: #27293d !important;
+  color: #ffffff !important;
+  .el-dialog__title {
+    color: #ffffff !important;
+  }
+  .el-radio {
+    color: #ffffff !important;
+  }
+}
+.el-message-box {
+  border: 0 !important;
+  border-radius: .75rem !important;
+  background-color: #27293d !important;
+  color: #ffffff !important;
+  .el-message-box__title {
+    color: #ffffff !important;
+  }
+  .el-radio {
+    color: #ffffff !important;
+  }
+}
+
+.el-textarea__inner {
+  border-radius: 6px !important;
+  background-color: #1e1e2d !important;
+  color: #ffffff !important;
+  border-color: #111113 !important;
+}
+.card {
+  border-radius: .75rem !important;
+}
+
+.el-upload-dragger {
+  background-color: #1e1e2d !important;
+  border-color: #111113 !important;
+}
+.el-pager {
+  .number {
+    background-color: #1e1e2d !important;
+  }
+}
+.btn-prev {
+  background-color: #1e1e2d !important;
+}
+
+.btn-next {
+  background-color: #1e1e2d !important;
+}
+.el-input__inner {
+  background-color: #1e1e2d !important;
+  border-color: #111113 !important;
+}
+.el-select-dropdown {
+  background-color: #27293d !important;
+  border: 0 !important;
+}
+.el-select-dropdown__item.hover, .el-select-dropdown__item:hover {
+  background-color: #1e1e2d !important;
+}
+.el-table--striped .el-table__body tr.el-table__row--striped td {
+  background: #23253a !important;
+}
+.navbar {
+  background-color: #27293d !important;
+  position: sticky !important;
+}
+.navbar .navbar-brand {
+  position: relative !important;
+  img {
+    max-width: 169px;
+    border: 0 !important;
+  }
+}
+.el-backtop {
+  background-color: #1e1e2d !important;
+  color: #ffffff !important;
+  border-color: #111113 !important;
+}
+
+.main-panel > .content {
+  padding: 30px 30px 30px 30px;
+}
+
